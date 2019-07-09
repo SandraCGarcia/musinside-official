@@ -61,18 +61,18 @@
         border-top-right-radius: 3px;
         
         &--1 {
-            background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark), 
-            url("./../../img/festival-xl.jpg");
+            // background-image: linear-gradient(to right bottom, $color-secondary-light, $color-secondary-dark);
+            background-image: url("./../../img/festival-xl2.jpg");
         }
 
         &--2 {
-            background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), 
-            url("./../../img/concierto-xl.jpg");
+            // background-image: linear-gradient(to right bottom, $color-primary-light, $color-primary-dark), 
+            background-image: url("./../../img/concierto-xl2.jpg");
         }
 
         &--3 {
-            background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark), 
-            url("./../../img/teatro-xl.jpg");
+            // background-image: linear-gradient(to right bottom, $color-tertiary-light, $color-tertiary-dark), 
+            background-image: url("./../../img/teatro-xl2.jpg");
         }
     }
 

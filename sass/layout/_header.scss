@@ -1,11 +1,11 @@
 .header {
     height: 85vh;
-    background: linear-gradient(
-        to right bottom,
-        rgba(#1bbc9b, 0.8),
-        rgba(#3598db, 0.8),
-        rgba(#9857b2, 0.8)), 
-        url("./../../img/concert-hero-corta.jpg");
+    // background: linear-gradient(
+    //     to right bottom,
+    //     rgba(#1bbc9b, 0.8),
+    //     rgba(#3598db, 0.8),
+    //     rgba(#9857b2, 0.8));
+    background-image: url("./../../img/concert-hero-corta2.jpg");
     background-size: cover;
     background-position: top;
     position: relative;

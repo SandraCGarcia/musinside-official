@@ -291,11 +291,11 @@ body {
     border-top-left-radius: 3px;
     border-top-right-radius: 3px; }
     .card__picture--1 {
-      background-image: linear-gradient(to right bottom, #1bbc9b, #33485d), url("./../../img/festival-xl.jpg"); }
+      background-image: url("./../../img/festival-xl2.jpg"); }
     .card__picture--2 {
-      background-image: linear-gradient(to right bottom, #3598db, #9857b2), url("./../../img/concierto-xl.jpg"); }
+      background-image: url("./../../img/concierto-xl2.jpg"); }
     .card__picture--3 {
-      background-image: linear-gradient(to right bottom, #3598db, #33485d), url("./../../img/teatro-xl.jpg"); }
+      background-image: url("./../../img/teatro-xl2.jpg"); }
   .card__heading {
     font-size: 3rem;
     font-weight: 300;
@@ -436,7 +436,7 @@ body {
     font-size: 6rem;
     margin-bottom: .5rem;
     display: inline-block;
-    background-image: linear-gradient(to right, #3598db, #9857b2), "./../../img/british-actions-HbQK5dxTlEw-unsplash.jpg";
+    background-image: url("./../../img/british-actions-HbQK5dxTlEw-unsplash.jpg");
     color: transparent; }
     @media only screen and (max-width: 56.25em) {
       .feature-box__icon {
@@ -758,7 +758,7 @@ body {
 
 .header {
   height: 85vh;
-  background: linear-gradient(to right bottom, rgba(27, 188, 155, 0.8), rgba(53, 152, 219, 0.8), rgba(152, 87, 178, 0.8)), url("./../../img/concert-hero-corta.jpg");
+  background-image: url("./../../img/concert-hero-corta2.jpg");
   background-size: cover;
   background-position: top;
   position: relative; }
@@ -951,7 +951,7 @@ body {
 
 .section-book {
   padding: 15rem 0;
-  background-image: linear-gradient(105deg, rgba(53, 152, 219, 0.7), rgba(152, 87, 178, 0.7)), url("./../../img/british-actions-HbQK5dxTlEw-unsplash.jpg");
+  background-image: linear-gradient(105deg, #3598db, #9857b2);
   background-size: 100%;
   background-repeat: no-repeat; }
   @media only screen and (max-width: 56.25em) {
